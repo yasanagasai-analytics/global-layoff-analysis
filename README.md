@@ -40,22 +40,22 @@ This project analysis global layoffs data from 2020-2026 using Python.
 Charts are available in the `3_images` folder.
 
 ### Layoffs Trend Over Time
-![Layoffs Trend](3_images/layoffs_trend.png)
+![Layoffs Trend](3_Images/layoffs_trend.png)
 
 ### Monthly Layoffs Trend
-![Monthly Layoffs](3_images/layoffs_by_month.png)
+![Monthly Layoffs](3_Images/layoffs_by_month.png)
 
 ### Layoffs by Industry
-![Industry Layoffs](3_images/layoffs_by_industry.png)
+![Industry Layoffs](3_Images/layoffs_by_industry.png)
 
 ### Layoffs by Country
-![Country Layoffs](3_images/layoffs_by_country.png)
+![Country Layoffs](3_Images/layoffs_by_country.png)
 
 ### Layoffs by Company
-![Company Layoffs](3_images/layoffs_by_company.png)
+![Company Layoffs](3_Images/layoffs_by_company.png)
 
 ### Funds Raised vs Total Layoffs
-![Funds vs Layoffs](3_images/funds_vs_total_layoff.png)
+![Funds vs Layoffs](3_Images/funds_vs_total_layoff.png)
 
 
 ## Key Insights
