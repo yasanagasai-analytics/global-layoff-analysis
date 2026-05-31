@@ -73,4 +73,4 @@ Charts are available in the `3_images` folder.
 - Use SQL to query large layoffs datasets for faster analysis.
 
 ## Project report
-[Download Full Report](8_Global_Layoff_Analysis.pdf)
+[Download Full Report](Global_Layoff_Analysis.pdf)
